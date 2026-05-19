@@ -1,7 +1,6 @@
 # xray-argo无交互一键四协议安装脚本
 最好用的一键xray-argo脚本，一键四协议无交互安装脚本！ 可走systemd守护
 * vless-grpc-reality | vless-xhttp-reality | vless-ws-tls(argo) | vmess-ws-tls(argo)
-* bash <(curl -Ls https://github.com//zhangbin0301/MrWang-xray-2go/raw/main/xray_2go.sh)
 
 ### 支持系统列表：
 >Debian
@@ -19,12 +18,12 @@
 * NAT小鸡需带PORT变量运行并确保PORT之后的1个端口可用，或运行完后更改订阅端口和reality端口
 
 ```
-bash <(curl -Ls https://github.com/eooce/xray-2go/raw/main/xray_2go.sh)
+bash <(curl -Ls https://github.com/zhangbin0301/MrWang-xray-2go/raw/main/xray_2go.sh)
 ```
 
 带变量运行示例,修改为自己需要定义的参数
 ```
-PORT=8888 CFIP=www.visa.com.tw CFPORT=8443 bash <(curl -Ls https://github.com/eooce/xray-2go/raw/main/xray_2go.sh)
+PORT=8888 CFIP=www.visa.com.tw CFPORT=8443 bash <(curl -Ls https://github.com/zhangbin0301/MrWang-xray-2go/raw/main/xray_2go.sh)
 ```
 
 # 免责声明
