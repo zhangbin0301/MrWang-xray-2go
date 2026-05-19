@@ -1,6 +1,7 @@
 # xray-argo无交互一键四协议安装脚本
 最好用的一键xray-argo脚本，一键四协议无交互安装脚本！ 可走systemd守护
 * vless-grpc-reality | vless-xhttp-reality | vless-ws-tls(argo) | vmess-ws-tls(argo)
+* bash <(curl -Ls https://github.com//zhangbin0301/MrWang-xray-2go/raw/main/xray_2go.sh)
 
 ### 支持系统列表：
 >Debian
